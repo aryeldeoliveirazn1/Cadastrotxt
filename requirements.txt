@@ -1,0 +1,3 @@
+# Nenhuma dependência externa necessária por enquanto.
+# Adicione pacotes pip, um por linha, exemplo:
+# requests==2.31.0
